@@ -50,13 +50,6 @@ The objective is to transform raw industrial data into interactive dashboards th
 5. Created analytical tables and measures.
 6. Built interactive Power BI dashboards.
 
-## Repository Structure
-
-- powerbi/: Power BI report
-- sql/: SQL scripts
-- screenshots/: Dashboard screenshots
-- documentation/: Data model and data dictionary
-
 ## Important Data Limitations
 
 The equipment anomaly dataset does not contain a timestamp, so its measurements are analyzed as records rather than historical trends.
